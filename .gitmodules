@@ -1,0 +1,9 @@
+[submodule "BeMore-software"]
+	path = BeMore-software
+	url = git@github.com:jakjan42/BeMore-software.git
+[submodule "BeMore-firmware"]
+	path = BeMore-firmware
+	url = git@github.com:jakjan42/BeMore-firmware.git
+[submodule "BeMore-docs"]
+	path = BeMore-docs
+	url = git@github.com:jakjan42/BeMore-docs.git
